@@ -411,14 +411,14 @@
     },
     {
       "id": 35,
-      "question": "Using the Pareto analysis, a manager makes a policy decision that says product lines that are sold quickly will be available at all distribution centers at a 90% availability level. Which category does the manager assign to these product lines?",
+      "question": "Which type of logistics focuses on moving products from customers or destinations for disposal or to recapture the value?",
       "choices": [
-        "A line",
-        "B line",
-        "C line",
-        "D line"
+        "Forward",
+        "Inbound",
+        "Reverse",
+        "Outbound"
       ],
-      "correct": "A line",
+      "correct": "Reverse",
       "explanation": ""
     },
     {
