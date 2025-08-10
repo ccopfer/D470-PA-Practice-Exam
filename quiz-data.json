@@ -1,0 +1,845 @@
+{
+  "title": "D470 PA Practice Exam",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which operational decision would affect a shipping company's functionality?",
+      "choices": [
+        "The design and layout of depots",
+        "The location and size of depots",
+        "Fleet capacity management",
+        "Vehicle maintenance"
+      ],
+      "correct": "Vehicle maintenance",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "Why do companies outsource distribution operations?",
+      "choices": [
+        "To increase logistical assets",
+        "To maintain its current logistics",
+        "To make logistics a core competency",
+        "To reduce logistics costs"
+      ],
+      "correct": "To reduce logistics costs",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "How are fourth-party logistics (4PL) provider solutions delivered?",
+      "choices": [
+        "Same as third-party logistics (3PL) providers",
+        "Across specific parts of the supply chain",
+        "Across the entire supply chain",
+        "Same as lead logistics providers (LLP)"
+      ],
+      "correct": "Across the entire supply chain",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "Which type of transportation mode is optimal for shipping a package containing an expensive antique vase a very long distance?",
+      "choices": [
+        "Rail",
+        "Air",
+        "Road",
+        "Sea"
+      ],
+      "correct": "Air",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Which surcharge is used to account for variations in marine fuel pricing?",
+      "choices": [
+        "Carrier security surcharge",
+        "Peak season surcharge",
+        "Currency adjustment surcharge",
+        "Bunker adjustment surcharge"
+      ],
+      "correct": "Bunker adjustment surcharge",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "What are the two key factors used in the selection of the most appropriate type of road transport for a large shipment?",
+      "choices": [
+        "Length and breadth of cargo",
+        "Width and height of cargo",
+        "Weight and volume of cargo",
+        "Size and shape of cargo"
+      ],
+      "correct": "Weight and volume of cargo",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "A company is distributing four products (A, B, C, and D) with the following volume-to-weight ratios:\nProduct Volume-to-weight ratio\nA 100, B 600, C 1000, D 250\nWhich product is relatively the most efficient for distribution?",
+      "choices": [
+        "Product A",
+        "Product B",
+        "Product C",
+        "Product D"
+      ],
+      "correct": "Product A",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "Which stage of the product life cycle (PLC) function has the greatest positive slope?",
+      "choices": [
+        "Introductory",
+        "Growth",
+        "Maturity",
+        "Decline"
+      ],
+      "correct": "Growth",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "A skincare company is facing a large amount of fluctuation in the demand for its products. Which operational means of production strategy should the company use in this situation?",
+      "choices": [
+        "Volume-based",
+        "Variety-based",
+        "Variability-based",
+        "Visibility-based"
+      ],
+      "correct": "Variability-based",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "A large chemical company produces a water treatment chemical that is used in the purification process for municipal water treatment facilities. Which manufacturing process should the chemical company use?",
+      "choices": [
+        "Project production",
+        "Mass production",
+        "Continuous production",
+        "Batch production"
+      ],
+      "correct": "Continuous production",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "Which type of company performance ability minimizes waste in its production process?",
+      "choices": [
+        "Time performance",
+        "Quality performance",
+        "Flexibility performance",
+        "Dependability performance"
+      ],
+      "correct": "Quality performance",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "A company is reengineering its logistics network by lowering costs. How will this action affect the network?",
+      "choices": [
+        "Customer service level increases.",
+        "The number of facilities decreases.",
+        "Delivery lead time decreases.",
+        "Responsiveness increases."
+      ],
+      "correct": "The number of facilities decreases.",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "A supermarket chain produces its own brand of food products that it uses as a replacement for brand-name items when stock levels are low. The products are essentially identical to those it purchases from brand-name manufacturers. What is the result of this strategy for the supermarket chain?",
+      "choices": [
+        "It decreases product quality.",
+        "It increases lead time.",
+        "It decreases logistics costs.",
+        "It increases stockouts."
+      ],
+      "correct": "It decreases logistics costs.",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "What happens to product sales in the introductory phase of the product life cycle (PLC)?",
+      "choices": [
+        "They decrease at an increasing rate.",
+        "They increase at an increasing rate.",
+        "They increase at a decreasing rate.",
+        "They decrease at a decreasing rate."
+      ],
+      "correct": "They increase at an increasing rate.",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "Which type of logistics should a company interested in improving its recycling operations focus on?",
+      "choices": [
+        "Outbound",
+        "Inbound",
+        "Manufacturing",
+        "Reverse"
+      ],
+      "correct": "Reverse",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "A company’s distribution center receives large shipments from its manufacturing plants, which are then shipped out as smaller shipments to customers. Which type of operation is the distribution center using?",
+      "choices": [
+        "Postponement Accessibility Policy Accessibility Settings",
+        "Cross-docking",
+        "Break-bulk",
+        "Reengineering"
+      ],
+      "correct": "Cross-docking",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "A government entity sets a road tax exemption for electric vehicles. What is this type of government action called?",
+      "choices": [
+        "Incentive",
+        "Regulation",
+        "Target",
+        "Control"
+      ],
+      "correct": "Incentive",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "What is the most efficient way of minimizing empty miles in transportation?",
+      "choices": [
+        "Picking up large and infrequent lots from suppliers",
+        "Picking up lots from suppliers after drop-off to customers",
+        "Picking up small and frequent lots from suppliers",
+        "Picking up large lots from suppliers and dropping off small lots to customers"
+      ],
+      "correct": "Picking up lots from suppliers after drop-off to customers",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "Which cross-border logistics decision will affect an organizations customs tax liabilities?",
+      "choices": [
+        "Production lot size",
+        "Production location",
+        "Production quality",
+        "Production reliability"
+      ],
+      "correct": "Production location",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "Which agency helps prepare and submit customs declarations on behalf of an importer or exporter?",
+      "choices": [
+        "Freight forwarder",
+        "Terminal operator",
+        "Payment bank",
+        "Border control"
+      ],
+      "correct": "Freight forwarder",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "Which international law focuses on harmonizing customs procedures throughout the world?",
+      "choices": [
+        "Infringement and Amended Foreign Trade Act (IFTA)",
+        "Prevention of Corruption in Tariffs and Trade (PCTT)",
+        "Trade Facilitation Agreement (TFA)",
+        "Trade Aspects of Commercial (TAC)"
+      ],
+      "correct": "Trade Facilitation Agreement (TFA)",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "What is one of the goals of the Kyoto customs convention?",
+      "choices": [
+        "To build more opaque customs procedures",
+        "To control the business community",
+        "To discourage preferences for trusted organizations",
+        "To make customs procedures more predictable"
+      ],
+      "correct": "To make customs procedures more predictable",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "Which factor helps define and categorize customs tariff rates?",
+      "choices": [
+        "Goods valuation",
+        "Commodity code",
+        "Transportation mode",
+        "Customer code"
+      ],
+      "correct": "Commodity code",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "A small business needs to cross a bridge in a delivery van to transport its products across the international border to a neighboring country. Which practice can the business use to assist the international agencies stationed there to ensure the efficient clearance of the products across the border?",
+      "choices": [
+        "Assuming tariff consistency for different countries",
+        "Consolidating and paying duties aTone time",
+        "Improving declarations and documentation",
+        "Classifying all products as duty-free"
+      ],
+      "correct": "Improving declarations and documentation",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "A busy international shipping company needs to hire a customs and trade compliance manager and is creating an employment request for its human resources team. Which skill will the applicant need to be successful in this role?",
+      "choices": [
+        "The ability to ensure successful systems deployment for vigorous trade operations",
+        "The ability to implement best practices for lowering its excise tax obligations",
+        "The ability to assist with the customization and trading of finished goods",
+        "The ability to provide a strategy for lowering direct taxes"
+      ],
+      "correct": "The ability to ensure successful systems deployment for vigorous trade operations",
+      "explanation": ""
+    },
+    {
+      "id": 26,
+      "question": "What is a characteristic of the Corrupt Practice Act of 1977?",
+      "choices": [
+        "It encourages the use of diverse payment types used to retain business.",
+        "It involves the use of corporations making unsanctioned payments both inside and outside the country.",
+        "It encourages the use of diverse payment types used to obtain original business.",
+        "It involves the use of unsanctioned payments made by multinational corporations but not individuals."
+      ],
+      "correct": "It involves the use of corporations making unsanctioned payments both inside and outside the country.",
+      "explanation": ""
+    },
+    {
+      "id": 27,
+      "question": "What is a key component of the supply cost that is specific to international trade?",
+      "choices": [
+        "Rework cost",
+        "Product quality cost",
+        "Cross-border tariffs cost",
+        "Direct taxation cost"
+      ],
+      "correct": "Cross-border tariffs cost",
+      "explanation": ""
+    },
+    {
+      "id": 28,
+      "question": "Which supply chain strategy is used to address demand changes using an agile method?",
+      "choices": [
+        "Quick response",
+        "Taguchi method",
+        "Forrester's model",
+        "5S concept"
+      ],
+      "correct": "Quick response",
+      "explanation": ""
+    },
+    {
+      "id": 29,
+      "question": "What is one of the benefits of efficient consumer response (ECR) in global trade?",
+      "choices": [
+        "Improved product quality",
+        "Improved machine reliability",
+        "Improved service level",
+        "Improved plant maintenance"
+      ],
+      "correct": "Improved service level",
+      "explanation": ""
+    },
+    {
+      "id": 30,
+      "question": "A country with an economy that is highly dependent on garment manufacturing and retail is having a problem with its border control mechanisms. Which challenge will a garment manufacturing company face while doing business with this country?",
+      "choices": [
+        "Increased production costs for the manufacturer",
+        "Increased financial risks for raw material suppliers",
+        "Increased competition from foreign brands",
+        "Increased product loss in the market"
+      ],
+      "correct": "Increased competition from foreign brands",
+      "explanation": ""
+    },
+    {
+      "id": 31,
+      "question": "Which agency helps in improving safety in the international trade and supply chain?",
+      "choices": [
+        "Border Enforcement Security Task Force (BEST)",
+        "Carrying and freight forwarders",
+        "World customs organizations",
+        "International trade organizations"
+      ],
+      "correct": "Border Enforcement Security Task Force (BEST)",
+      "explanation": ""
+    },
+    {
+      "id": 32,
+      "question": "A manager is planning inventory by calculating the average demand for products for the next production period based on the actual demand from the previous two years. Which quantitative forecasting method is the manager using?",
+      "choices": [
+        "Causal",
+        "Experimental",
+        "Moving average",
+        "Exponential smoothing"
+      ],
+      "correct": "Moving average",
+      "explanation": ""
+    },
+    {
+      "id": 33,
+      "question": "A manufacturing company keeps partially finished stock at a nearby suppliers warehouse to ensure that stock deliveries can be made within an hour and goods can be completed and shipped to customers immediately. Which stock type is being held at the warehouse?",
+      "choices": [
+        "In-process",
+        "Spare parts",
+        "Pipeline",
+        "Obsolescent"
+      ],
+      "correct": "In-process",
+      "explanation": ""
+    },
+    {
+      "id": 34,
+      "question": "A company holds stock supplies that are equivalent to the typical demand required to meet frequent customer purchases for one quarter. Which stock type does the firm hold?",
+      "choices": [
+        "Cycle",
+        "Safety",
+        "Speculative",
+        "Seasonal"
+      ],
+      "correct": "Cycle",
+      "explanation": ""
+    },
+    {
+      "id": 35,
+      "question": "Using the Pareto analysis, a manager makes a policy decision that says product lines that are sold quickly will be available at all distribution centers at a 90% availability level. Which category does the manager assign to these product lines?",
+      "choices": [
+        "A line",
+        "B line",
+        "C line",
+        "D line"
+      ],
+      "correct": "A line",
+      "explanation": ""
+    },
+    {
+      "id": 36,
+      "question": "A manager discovers that each time an order is transported to customers, the delivery vehicle returns empty, which increases costs. How could the firm decrease costs by optimizing the return journey?",
+      "choices": [
+        "By visiting customers to discuss new products",
+        "By collecting raw materials on the return trip",
+        "By outsourcing delivery to a dedicated third party",
+        "By investing in more distribution facilities"
+      ],
+      "correct": "By collecting raw materials on the return trip",
+      "explanation": ""
+    },
+    {
+      "id": 37,
+      "question": "A companys distribution process moves goods from the production facility to the warehouse, to local distribution centers, and then on to customers. Which distribution process is the company using?",
+      "choices": [
+        "Flexible",
+        "Fast moving",
+        "Pull",
+        "Echelon"
+      ],
+      "correct": "Echelon",
+      "explanation": ""
+    },
+    {
+      "id": 38,
+      "question": "A manager learns that the manufacturing plant has half of the required inventory to complete a customers order and calculates the penalty for not holding adequate stock. Which element of inventory-holding cost is the manager analyzing?",
+      "choices": [
+        "Shortage cost",
+        "Risk cost",
+        "Capital financing cost",
+        "Storage cost"
+      ],
+      "correct": "Shortage cost",
+      "explanation": ""
+    },
+    {
+      "id": 39,
+      "question": "A firm rapidly increases its variety of goods, requiring it to order a larger assortment of inventory. Which factor is influencing rising inventory costs?",
+      "choices": [
+        "Increased customer-order cycle time",
+        "Increased product proliferation",
+        "Decreased customer expectations",
+        "Decreased demand volatility"
+      ],
+      "correct": "Increased product proliferation",
+      "explanation": ""
+    },
+    {
+      "id": 40,
+      "question": "A manager evaluates key performance indicators related to cost centers and operations standards and compares the variance between actual costs and performance data to take corrective action. What is the manager evaluating?",
+      "choices": [
+        "Supply chain operations reference model",
+        "Just-in-time process",
+        "Operating plan",
+        "Operating control system"
+      ],
+      "correct": "Operating control system",
+      "explanation": ""
+    },
+    {
+      "id": 41,
+      "question": "A manager is evaluating the effectiveness of an operations control system and discovers that the data does not include all the products stages of production and distribution that are necessary to make decisions. Which principle associated with the system should be a concern?",
+      "choices": [
+        "Validity",
+        "Reactivity to changes",
+        "Timeliness",
+        "Ease of maintenance"
+      ],
+      "correct": "Validity",
+      "explanation": ""
+    },
+    {
+      "id": 42,
+      "question": "A firm is establishing a measurement system to evaluate the effectiveness of its operational functions. Managers with different levels of policy and decision-making authority will be contributing to and implementing improvements based on the data produced by the system. Which best practice should the firm consider as it develops its measurement system?",
+      "choices": [
+        "Product proliferation",
+        "Validity",
+        "Hierarchy of needs",
+        "Reactivity to changes"
+      ],
+      "correct": "Hierarchy of needs",
+      "explanation": ""
+    },
+    {
+      "id": 43,
+      "question": "A company identifies world-class standards used by other companies in a variety of global industries to establish a fundamental measure of its operating efficiency compared to other organizations to identify variances that will allow it to employ continuous improvements and close performance gaps. Which process is the firm engaged in?",
+      "choices": [
+        "Benchmarking",
+        "User ownership",
+        "Activity-based costing",
+        "Cost-to-serve"
+      ],
+      "correct": "Benchmarking",
+      "explanation": ""
+    },
+    {
+      "id": 44,
+      "question": "A company uses technology to control all activities, automated equipment, and radio frequency communications with operators in its finished-goods distribution centers. Which system is the company using?",
+      "choices": [
+        "Warehouse management",
+        "Omnichannel fulfillment",
+        "Distributed order management",
+        "Integrated business planning"
+      ],
+      "correct": "Warehouse management",
+      "explanation": ""
+    },
+    {
+      "id": 45,
+      "question": "A firm donates materials to an aid agency following a natural disaster and asks to be notified when the materials have reached the final end users. When will the aid agency contact the firm?",
+      "choices": [
+        "When materials are distributed",
+        "When materials have been transported onsite",
+        "When materials have reached the extended delivery point",
+        "When the overall impact reporTon the aid is complete"
+      ],
+      "correct": "When materials are distributed",
+      "explanation": ""
+    },
+    {
+      "id": 46,
+      "question": "A community college raises funds to support humanitarian aid in another country that is experiencing a famine. Which role does the community college play?",
+      "choices": [
+        "Beneficiary",
+        "Donor",
+        "Agency",
+        "End-user"
+      ],
+      "correct": "Donor",
+      "explanation": ""
+    },
+    {
+      "id": 47,
+      "question": "A firm uses a balanced scorecard approach to measure its learning and innovation perspective related to the impact of research and developmenTon new-to-market goods. Which metric does the firm use?",
+      "choices": [
+        "New product introduction",
+        "Market share",
+        "Customer acquisition",
+        "Quality improvement"
+      ],
+      "correct": "New product introduction",
+      "explanation": ""
+    },
+    {
+      "id": 48,
+      "question": "A firm uses an online system to contract transportation that is similar to an online trading platform used for logistics that is hosted by a third-party agency. Which platform is the firm using?",
+      "choices": [
+        "Procurement software",
+        "Supply-chain, event-management system",
+        "Digital freight exchange software",
+        "Enterprise-wide information system"
+      ],
+      "correct": "Digital freight exchange software",
+      "explanation": ""
+    },
+    {
+      "id": 49,
+      "question": "A firm monitors all its distribution centers to determine how expenses such as labor and rent vary from location to location. Which performance indicator does the firm monitor?",
+      "choices": [
+        "Activity-based costing",
+        "Variability of daily throughput",
+        "Direct product profitability",
+        "Regional cost variations"
+      ],
+      "correct": "Regional cost variations",
+      "explanation": ""
+    },
+    {
+      "id": 50,
+      "question": "A firm uses a formal benchmarking system that considers the requirements of the companys customers and focuses on improving supplier performance for consumers. Which system does the firm use?",
+      "choices": [
+        "Inventory demand forecasting",
+        "Quality function deployment",
+        "Omnichannel fulfillment",
+        "Distributed order management"
+      ],
+      "correct": "Quality function deployment",
+      "explanation": ""
+    },
+    {
+      "id": 51,
+      "question": "A firm uses a formal benchmarking framework that applies standards based on productivity and operational performance excellence officially recognized in the United States. Which framework is the firm using?",
+      "choices": [
+        "Logmark Supply Chain Benchmarking Group criteria",
+        "Malcolm Baldridge National Quality Award criteria",
+        "International Organization for Standardization criteria",
+        "Quality function deployment criteria"
+      ],
+      "correct": "Malcolm Baldridge National Quality Award criteria",
+      "explanation": ""
+    },
+    {
+      "id": 52,
+      "question": "A manufacturer wants to streamline its operations and focus on its core business area and decides to outsource its distribution and logistics to a third party. How will this decision impact the manufacturer?",
+      "choices": [
+        "It will cause a decrease in direct product profitability.",
+        "It will reduce the flexibility of warehouse management.",
+        "It will reduce the effectiveness of inventory demand forecasting systems.",
+        "It will cause a decrease in logistics decision-making control."
+      ],
+      "correct": "It will cause a decrease in logistics decision-making control.",
+      "explanation": ""
+    },
+    {
+      "id": 53,
+      "question": "A manufacturer decides to outsource its distribution and logistics to a third party to provide facilities, distribution centers, and transport vehicles. What is the impact of this decision on the manufacturer?",
+      "choices": [
+        "It will provide the ability to reduce the product life cycle through innovation.",
+        "It will increase product proliferation as a result of cost savings.",
+        "It will decrease demand volatility as a result of business planning.",
+        "It will provide investment opportunities in more profitable business areas."
+      ],
+      "correct": "It will provide investment opportunities in more profitable business areas.",
+      "explanation": ""
+    },
+    {
+      "id": 54,
+      "question": "A firm has decided to use a multiuser third-party distribution and logistics agency. Which advantage is gained from this decision?",
+      "choices": [
+        "Economies of scale can be achieved with other firms.",
+        "Benchmarking will be provided by the third party.",
+        "Agency staff possesses general knowledge of operations management.",
+        "Equipment will meet basic operations requirements."
+      ],
+      "correct": "Economies of scale can be achieved with other firms.",
+      "explanation": ""
+    },
+    {
+      "id": 55,
+      "question": "A firm with a strong reputation for quality has decided to outsource its distribution and logistics operations to a multiuser third-party agency start-up that is not well known in the industry. Which scenario is the firm likely to experience as a result of this decision?",
+      "choices": [
+        "The third-party firm will improve the end-user customer experience.",
+        "The third-party brand could interfere with the firms brand.",
+        "Omnichannel fulfillment will improve through collaboration.",
+        "Benchmarking with competitive logistics firms will be effective."
+      ],
+      "correct": "The third-party brand could interfere with the firms brand.",
+      "explanation": ""
+    },
+    {
+      "id": 56,
+      "question": "A firm decides to outsource its operations management functions. Which first step should the firm take to consider this relationship?",
+      "choices": [
+        "Make operational readjustments",
+        "Conduct open-book audits with the provider",
+        "Identify service requirements and costs",
+        "Pinpoint industry best practices"
+      ],
+      "correct": "Identify service requirements and costs",
+      "explanation": ""
+    },
+    {
+      "id": 57,
+      "question": "A third-party distribution and logistics provider decides to scale back from serving multiple users to serving as a dedicated outsourcing firm. Which capability allows the firm to charge more for its services?",
+      "choices": [
+        "Reduced risk cost related to product obsolescence",
+        "Economies of scale with other firms",
+        "Consolidation of loads and higher delivery frequency",
+        "Specialization of knowledge and expertise"
+      ],
+      "correct": "Specialization of knowledge and expertise",
+      "explanation": ""
+    },
+    {
+      "id": 58,
+      "question": "A firm has established an outsourcing relationship and monitors the achievement of provider activity targets during review meetings that include open-book audits with different levels of decision-makers. What is the firm engaged in?",
+      "choices": [
+        "Performance tracking",
+        "Integrated business planning",
+        "Product life cycle optimization",
+        "Benchmarking program"
+      ],
+      "correct": "Performance tracking",
+      "explanation": ""
+    },
+    {
+      "id": 59,
+      "question": "A firm writes a clause into a contract with a third-party logistics provider that the provider will receive a percentage of the profits whenever the provider exceeds its performance targets. Which approach is the firm using?",
+      "choices": [
+        "Experimental forecasting calculations",
+        "Gainsharing-based activity incentive",
+        "Exponential smoothing demand estimates",
+        "Efficient just-in-time operations system"
+      ],
+      "correct": "Gainsharing-based activity incentive",
+      "explanation": ""
+    },
+    {
+      "id": 60,
+      "question": "A warehouse manager wants to connect the picking operations to its warehouse management system (WMS) to eliminate human intervention from its operations. Which type of inventory management system can help the manager?",
+      "choices": [
+        "Push-back racking system",
+        "Automated storage/retrieval system",
+        "Drive-in and drive-through racking system",
+        "Block stacking system"
+      ],
+      "correct": "Automated storage/retrieval system",
+      "explanation": ""
+    },
+    {
+      "id": 61,
+      "question": "A company is evaluating its options for storing long turbine blades in a warehouse with minimal investment costs. Which storage system should the company use?",
+      "choices": [
+        "Powered mobile racking",
+        "Drive-in and drive-through racking",
+        "Cantilevered racking",
+        "Automated storage/retrieval racking"
+      ],
+      "correct": "Cantilevered racking",
+      "explanation": ""
+    },
+    {
+      "id": 62,
+      "question": "A home utensils company wants to reduce its direct labor costs in its warehouse operations. Which warehouse activity should the company focus on to drive the biggest reduction?",
+      "choices": [
+        "Storing",
+        "Housekeeping",
+        "Picking",
+        "Labeling"
+      ],
+      "correct": "Picking",
+      "explanation": ""
+    },
+    {
+      "id": 63,
+      "question": "Two pickers in a warehouse have picking productivity of 100 lines per hour and 200 lines per hour, respectively. What is the reason for the difference in productivity?",
+      "choices": [
+        "Picking automation level",
+        "Measurement standards",
+        "Picking method",
+        "Stock replenishment accuracy"
+      ],
+      "correct": "Picking method",
+      "explanation": ""
+    },
+    {
+      "id": 64,
+      "question": "The average picking productivity of two warehouses is X orders per picker per hour and 2X orders per picker per hour, respectively. What is the reason for the productivity difference?",
+      "choices": [
+        "Measurement standards",
+        "Picking operation hours",
+        "Scale of warehouse",
+        "Picking equipment usage"
+      ],
+      "correct": "Picking equipment usage",
+      "explanation": ""
+    },
+    {
+      "id": 65,
+      "question": "A large warehouse yard wants to automate the process of assigning bays for loading and unloading vehicles. Which technology can help the warehouse yard?",
+      "choices": [
+        "Autonomous mobile robots (AMR)",
+        "Automated guided vehicles (AGV)",
+        "Blockchain",
+        "Geofencing"
+      ],
+      "correct": "Geofencing",
+      "explanation": ""
+    },
+    {
+      "id": 66,
+      "question": "What is an example of short-term planning in warehouse management?",
+      "choices": [
+        "Budget planning based on expansion projections",
+        "Demand planning based on market requirements",
+        "Capacity planning based on business growth",
+        "Workload planning based on order receipts"
+      ],
+      "correct": "Workload planning based on order receipts",
+      "explanation": ""
+    },
+    {
+      "id": 67,
+      "question": "Which operational metric can help a corporation improve its warehouse employee safety statistics?",
+      "choices": [
+        "Stock integrity",
+        "Days without an accident",
+        "Customer-service levels",
+        "Environmental-audit adherence"
+      ],
+      "correct": "Days without an accident",
+      "explanation": ""
+    },
+    {
+      "id": 68,
+      "question": "A warehouse received a vehicle with stock on the twelfth day of the month and moved it to the storage location on the fifteenth day of the month. The customers order for the product was received on the sixteenth day of the same month, and it was dispatched on the seventeenth. What is the put-away cycle time for this operation?",
+      "choices": [
+        "Two days",
+        "Three days",
+        "Four days",
+        "Five days"
+      ],
+      "correct": "Three days",
+      "explanation": ""
+    },
+    {
+      "id": 69,
+      "question": "Four warehouses have annual stock turnover ratios of the following:\nW:4 X:5 Y:8 Z:10 \nWhich warehouse holds the lowest level of inventory?",
+      "choices": [
+        "Warehouse W",
+        "Warehouse X",
+        "Warehouse Y",
+        "Warehouse Z"
+      ],
+      "correct": "Warehouse Z",
+      "explanation": ""
+    },
+    {
+      "id": 70,
+      "question": "A company wants to improve its put-away efficiency across its storage network by using advanced systems. Which system can help the company achieve this goal?",
+      "choices": [
+        "Transportation management system (TMS)",
+        "Yard management system (YMS)",
+        "Warehouse management system (WMS)",
+        "Order management system (OMS)"
+      ],
+      "correct": "Warehouse management system (WMS)",
+      "explanation": ""
+    }
+  ]
+}
